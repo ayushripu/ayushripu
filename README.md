@@ -15,14 +15,12 @@
 ---
 
 ### 🌐 Connect with me:
-### 🌐 Socials:
-
 <p align="center">
-<a href="https://instagram.com/YOUR_USERNAME">
+<a href="https://www.instagram.com/ayush_ripu/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=none&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://www.linkedin.com/in/ayush-kr37/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=none&logoColor=white"/>
 </a>
 
@@ -35,15 +33,24 @@
 
 ### 🛠️ Tech Stack:
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nodejs,mysql,git,github" />
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=none&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=none&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=none&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=none&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=none&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=none&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=none&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=none&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=none&logoColor=white"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -64,6 +71,7 @@
 
 ### 🚀 Projects:
 - 🔹 Library Management System (Java)
+- 🔹 Spell Correction in Java
 - 🔹 Student Record System
 - 🔹 Portfolio Website
 
