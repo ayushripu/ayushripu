@@ -16,12 +16,9 @@
 
 ### 🌐 Connect with me:
 <p align="center">
-<a href="https://instagram.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-</a>
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
+<a href="https://instagram.com/YOUR_USERNAME">Instagram</a> •
+<a href="https://linkedin.com/in/YOUR_USERNAME">LinkedIn</a> •
+<a href="https://x.com/YOUR_USERNAME">X (Twitter)</a>
 </p>
 
 ---
