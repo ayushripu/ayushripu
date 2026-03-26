@@ -79,5 +79,5 @@
 
 ### 👀 Profile Views:
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=blue&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=ayushripu&style=for-the-badge" />
 </p>
