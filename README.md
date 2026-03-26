@@ -57,14 +57,14 @@
 
 ### 🏆 GitHub Trophies:
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=ayushripu&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🔥 Contribution Snake:
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/ayushripu/ayushripu/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
