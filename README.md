@@ -55,9 +55,9 @@
 
 ---
 
-### 🏆 GitHub Trophies:
+### 📊 Activity Graph:
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ayushripu&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushripu&theme=tokyo-night" />
 </p>
 
 ---
