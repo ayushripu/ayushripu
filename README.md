@@ -1,39 +1,34 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">A passionate Developer from India 🚀<br> Highly-motivated employee with desire to take on new challenges. Strong work ethic, 
-adaptability, and exceptional interpersonal skills. Adept at working effectively 
-unsupervised and quickly mastering new skills. 
-alongside my commitment to hard work and efficiency. I aim to leverage my skills in an 
-organization that values growth and learning </h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;DSA+Enthusiast;Spring+Boot+Learner;Future+Software+Engineer" />
+</p>
 
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 I’m currently working on **Java & DSA**
-- 🌱 I’m currently learning **Spring Boot & React**
+- 🔭 Working on **Java & DSA**
+- 🌱 Learning **Spring Boot & React**
 - 💬 Ask me about **Java, OOP, DSA**
-- ⚡ Fun fact: I love coding and building projects 😎
+- ⚡ Fun fact: I debug more than I code 😂
 
 ---
 
-### 🌐 Socials:
-<p align="left">
-<a href="https://www.instagram.com/ayush_ripu/" target="instagram">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
+### 🌐 Connect with me:
+<p align="center">
+<a href="https://instagram.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
-<a href="https://www.linkedin.com/in/ayush-kr37/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-</a>
-<a href="https://x.com/Ayush_37sri" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 </p>
 
 ---
 
 ### 🛠️ Tech Stack:
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nodejs,mysql,git" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nodejs,mysql,git,github" />
 </p>
 
 ---
@@ -41,15 +36,33 @@ organization that values growth and learning </h3>
 ### 📊 GitHub Stats:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 ---
 
-### 🔥 Top Languages:
+### 🏆 GitHub Trophies:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+### 🔥 Contribution Snake:
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 🚀 Projects:
+- 🔹 Library Management System (Java)
+- 🔹 Student Record System
+- 🔹 Portfolio Website
+
+---
+
+### 👀 Profile Views:
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=blue&style=flat" />
 </p>
