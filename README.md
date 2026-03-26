@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">A passionate Developer from India 🚀</h3>
+<h3 align="center">A passionate Developer from India 🚀<br> Highly-motivated employee with desire to take on new challenges. Strong work ethic, 
+adaptability, and exceptional interpersonal skills. Adept at working effectively 
+unsupervised and quickly mastering new skills. 
+alongside my commitment to hard work and efficiency. I aim to leverage my skills in an 
+organization that values growth and learning </h3>
 
 ---
 
@@ -16,7 +20,11 @@
 <a href="https://www.instagram.com/ayush_ripu/" target="instagram">
 <img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
-<a href="https://linkedin.com/in/YOUR_USERNAME" target="blank">
+<a href="https://www.linkedin.com/in/ayush-kr37/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+</a>
+<a href="https://x.com/Ayush_37sri" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 </p>
