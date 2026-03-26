@@ -15,10 +15,20 @@
 ---
 
 ### 🌐 Connect with me:
+### 🌐 Socials:
+
 <p align="center">
-<a href="https://instagram.com/YOUR_USERNAME">Instagram</a> •
-<a href="https://linkedin.com/in/YOUR_USERNAME">LinkedIn</a> •
-<a href="https://x.com/YOUR_USERNAME">X (Twitter)</a>
+<a href="https://instagram.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=none&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=none&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Ayush_37sri">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=none&logoColor=white"/>
+</a>
 </p>
 
 ---
