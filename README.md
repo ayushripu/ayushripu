@@ -13,7 +13,7 @@
 
 ### 🌐 Socials:
 <p align="left">
-<a href="https://instagram.com/YOUR_USERNAME" target="blank">
+<a href="https://www.instagram.com/ayush_ripu/" target="instagram">
 <img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
 <a href="https://linkedin.com/in/YOUR_USERNAME" target="blank">
