@@ -7,9 +7,9 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 Working on **Java & DSA**
-- 🌱 Learning **Spring Boot & React**
-- 💬 Ask me about **Java, OOP, DSA**
+- 🔭 Working on **Python, Java & DSA**
+- 🌱 Learning **Data Analysis & Machine Learning**
+- 💬 Ask me about **Python, Numpy, Pandas, Mysql, Java, OOP, DSA**
 - ⚡ Fun fact: I debug more than I code 😂
 
 ---
