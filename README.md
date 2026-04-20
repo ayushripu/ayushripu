@@ -15,7 +15,7 @@
 ---
 
 ### 🌐 Connect with me:
-<p align="center">
+<p align="center"> 
 <a href="https://www.instagram.com/ayush_ripu/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=none&logoColor=white"/>
 </a>
