@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍💻 About Me: 
+### 👨‍💻 About Me:
 - 🔭 Working on **Python, Java & DSA**
 - 🌱 Learning **Data Analysis & Machine Learning**
 - 💬 Ask me about **Python, Numpy, Pandas, Mysql, Java, OOP, DSA**
