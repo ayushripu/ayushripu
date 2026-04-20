@@ -12,7 +12,7 @@
 - 💬 Ask me about **Python, Numpy, Pandas, Mysql, Java, OOP, DSA**
 - ⚡ Fun fact: I debug more than I code 😂
 
----
+--- 
 
 ### 🌐 Connect with me:
 <p align="center"> 
