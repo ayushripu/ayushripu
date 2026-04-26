@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 
-<p align="center">
+<p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Aspiring+Data+Analyst;Python+(NumPy+Pandas+Matplotlib);MySQL+%7C+Power+BI+%7C+Excel;Java+Developer;Future+Analyst+%26+Software+Engineer" />
 </p>
 
