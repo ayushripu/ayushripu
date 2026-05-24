@@ -70,7 +70,7 @@
 ---
 
 ### 🚀 Projects:
-- 🔹 Library Management System (Java)
+- 🔹 Amazone sales Data Analysis
 - 🔹 Spell Correction in Java
 - 🔹 Student Record System
 - 🔹 Portfolio Website
