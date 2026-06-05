@@ -50,10 +50,11 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushripu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushripu&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushripu&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ayushripu&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
