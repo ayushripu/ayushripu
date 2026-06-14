@@ -78,6 +78,7 @@
 
 ### 🚀 Projects:
 - 🔹 Amazone sales Data Analysis
+- 🔹 Retail-Sales-Performance-Analysis
 - 🔹 Spell Correction in Java
 - 🔹 Student Record System
 - 🔹 Portfolio Website
