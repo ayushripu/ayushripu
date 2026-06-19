@@ -77,6 +77,7 @@
 ---
 
 ### 🚀 Projects:
+- 🔹 Netflix-Userbase-Revenue-Dashboard
 - 🔹 Amazone sales Data Analysis
 - 🔹 Retail-Sales-Performance-Analysis
 - 🔹 Spell Correction in Java
