@@ -8,7 +8,7 @@
  
 ### 👨‍💻 About Me:
 - 🔭 Working on **Python, Data Analyst, Artificial Intelligence (AI)**
-- 🌱 Learning **Data Analysis & Machine Learning**
+- 🌱 Learning **Data Analysis & Machine Learning** 
 - 💬 Ask me about **Python, Numpy, Pandas, MatPlotLib, Power BI, Mysql, Excel, Java, OOP, DSA**
 - ⚡ Fun fact : I debug more than I code 😂
 
