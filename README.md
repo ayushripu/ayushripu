@@ -125,7 +125,7 @@ STATUS
 
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushripu&theme=tokyonight"/>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushripu&theme=tokyonight"/>
+<img width="48%" src="https://raw.githubusercontent.com/ayushripu/ayushripu/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
