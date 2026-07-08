@@ -80,37 +80,15 @@ Availability  : 24x7 Learning Mode
 </p>
 ---
 
-# 🚀 ACTIVE PROJECTS
+# 🚀 FEATURED PROJECTS
 
-```text
-[✓] Airbnb Property Performance Dashboard
-
-STATUS
-████████████████████ 100%
-
-------------------------------------------------
-
-[✓] Netflix User Analytics Dashboard
-
-STATUS
-██████████████████░░ 95%
-
-------------------------------------------------
-
-[✓] Amazon Sales Analysis
-
-STATUS
-████████████████░░░░ 85%
-
-------------------------------------------------
-
-[✓] Retail Sales Performance Dashboard
-
-STATUS
-███████████████░░░░░ 80%
-```
-
----
+| 🚀 Project | Tech Stack |
+|------------|------------|
+| 🏠 Airbnb Property Performance Dashboard | Power BI • DAX • Power Query |
+| 📺 Netflix User Analytics Dashboard | Python • Pandas • Matplotlib |
+| 🛒 Amazon Sales Analysis | SQL • Python • Excel |
+| 🏪 Retail Sales Dashboard | Power BI • SQL |
+| 🎓 Student Record System | Java |
 
 ---
 
