@@ -1,125 +1,230 @@
 <div align="center">
 
-# 🤖 J.A.R.V.I.S Analytics Console
+# ⚡ CYBER ANALYTICS TERMINAL
 
 ```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+████████████████████████████████████████████████████
 
-SYSTEM        : ONLINE 🟢
-USER          : AYUSH KUMAR
-ROLE          : DATA ANALYST
-MISSION       : Transform Data into Decisions
+> Booting Neural Engine...
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Loading AI Modules...
 
-Initializing Modules...
+██████████████████████████████ 100%
 
-[████████████████████] 100%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-✔ Python Engine.............ONLINE
-✔ SQL Database..............ONLINE
-✔ Power BI Dashboard........ONLINE
-✔ Excel Analytics...........ONLINE
-✔ Statistics................LOADING...
-✔ Machine Learning..........IN PROGRESS
+USER         :: AYUSH KUMAR
+ROLE         :: DATA ANALYST
+ACCESS LEVEL :: ROOT
+STATUS       :: ONLINE 🟢
+LOCATION     :: NOIDA, INDIA
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+MISSION
+"Turning Raw Data into Business Intelligence"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SYSTEM HEALTH
+
+Python Engine..........ONLINE ✔
+SQL Database...........ONLINE ✔
+Power BI Core..........ONLINE ✔
+Excel Analytics........ONLINE ✔
+Statistics.............LOADING...
+Machine Learning.......INITIALIZING...
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=DATA+ANALYST;POWER+BI+DEVELOPER;PYTHON+PROGRAMMER;SQL+ENTHUSIAST;FUTURE+DATA+SCIENTIST" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&width=900&lines=ROOT+ACCESS+GRANTED;DATA+ANALYST;PYTHON+%7C+SQL+%7C+POWER+BI;EXTRACT+%E2%9E%9D+TRANSFORM+%E2%9E%9D+VISUALIZE;FUTURE+DATA+SCIENTIST" />
 
 </div>
 
 ---
 
-# 🧠 AI Core
+# 💻 SYSTEM CONFIGURATION
 
 ```yaml
-Name        : Ayush Kumar
-Location    : Bihar, India 🇮🇳
-Education   : MCA
-Focus       : Data Analytics
-Goal        : Data Scientist
-Status      : Learning Every Day
+Username      : Ayush Kumar
+Role          : Data Analyst
+Education     : MCA
+Operating Mode: Data-Driven
+Current Focus : Analytics & Machine Learning
+Availability  : 24x7 Learning Mode
 ```
 
 ---
 
-# ⚡ Activated Modules
+# 🧠 CORE MODULES
 
-| Module | Status |
-|--------|--------|
-| 🐍 Python | ██████████ |
-| 🗄 SQL | █████████░ |
-| 📊 Power BI | █████████ |
-| 📈 Excel | ██████████ |
-| 📉 Statistics | ███████░░ |
-| 🤖 Machine Learning | ██████░░░ |
+```text
+Python                 ██████████████░░ 92%
+
+SQL                    █████████████░░░ 88%
+
+Power BI               ████████████░░░░ 84%
+
+Excel                  ██████████████░░ 91%
+
+Pandas                 ███████████░░░░░ 78%
+
+NumPy                  ███████████░░░░░ 77%
+
+Statistics             ████████░░░░░░░░ 60%
+
+Machine Learning       ███████░░░░░░░░░ 55%
+```
 
 ---
 
-# 🚀 Mission Database
+# 🚀 ACTIVE PROJECTS
 
 ```text
 [✓] Airbnb Property Performance Dashboard
 
-[✓] Netflix User Analytics
+STATUS
+████████████████████ 100%
+
+------------------------------------------------
+
+[✓] Netflix User Analytics Dashboard
+
+STATUS
+██████████████████░░ 95%
+
+------------------------------------------------
 
 [✓] Amazon Sales Analysis
 
-[✓] Retail Sales Dashboard
+STATUS
+████████████████░░░░ 85%
 
-[✓] Student Record System
+------------------------------------------------
 
-[✓] Spell Correction (Java)
+[✓] Retail Sales Performance Dashboard
+
+STATUS
+███████████████░░░░░ 80%
 ```
 
 ---
 
-# 📡 Live System Analytics
+# 📊 LIVE ANALYTICS
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushripu&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushripu&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushripu&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=ayushripu&theme=chartreuse-dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushripu&layout=compact&theme=tokyonight"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushripu&layout=compact&theme=chartreuse-dark"/>
 
 </p>
 
 ---
 
-# 🎯 Current Objective
+# ⚡ MISSION 2026
 
 ```text
-MISSION 2026
+Objective
 
-▶ Master SQL
-▶ Master Power BI
-▶ Learn Machine Learning
-▶ Build 25+ Analytics Projects
-▶ Become Data Scientist
+Become Data Scientist
 
-Progress
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-███████████████░░░ 82%
+Complete Advanced SQL
+
+████████████████████ 100%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Master Power BI
+
+█████████████████░░░ 90%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Machine Learning
+
+███████████░░░░░░░░░ 65%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Deep Learning
+
+██████░░░░░░░░░░░░░░ 35%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Open Source Contribution
+
+█████████░░░░░░░░░░░ 50%
 ```
 
 ---
 
-# 💬 System Quote
+# 🛰 TERMINAL LOG
 
-> **"Raw data is merely noise. Insight is intelligence."**
+```bash
+> Initializing Data Pipeline...
+
+Connecting SQL Server...
+
+Connection Established ✔
+
+Cleaning Dataset...
+
+Missing Values Removed ✔
+
+Building Dashboard...
+
+Insights Generated ✔
+
+Mission Completed Successfully ✔
+```
+
+---
+
+# 🧬 PHILOSOPHY
+
+```text
+while(True):
+
+    Learn()
+
+    Build()
+
+    Analyze()
+
+    Improve()
+
+    Repeat()
+```
+
+---
+
+# ☠ ROOT MOTTO
+
+> **"Hack the data. Decode the patterns. Engineer the future."**
 
 ---
 
 <div align="center">
 
-### 🚀 End of Transmission
+```text
+CONNECTION TERMINATED
+
+EXIT STATUS : SUCCESS
+
+THANK YOU FOR VISITING MY PROFILE
+
+██████████████████████████████████
+```
 
 </div>
