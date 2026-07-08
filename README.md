@@ -152,6 +152,16 @@ Open Source Contribution
 
 ---
 
+# 📊 CONTRIBUTION GRAPH
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushripu&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
 # 🛰 TERMINAL LOG
 
 ```bash
@@ -194,7 +204,7 @@ while(True):
 
 # ☠ ROOT MOTTO
 
-> **"Hack the data. Decode the patterns. Engineer the future."**
+> **"Turning billions of rows into one meaningful decision."**
 
 ---
 
@@ -209,5 +219,13 @@ THANK YOU FOR VISITING MY PROFILE
 
 ██████████████████████████████████
 ```
+
+# 🏆 ACHIEVEMENTS
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ayushripu&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</p>
 
 </div>
