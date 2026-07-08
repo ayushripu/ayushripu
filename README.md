@@ -114,19 +114,13 @@ STATUS
 # 📊 LIVE ANALYTICS
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushripu&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=ayushripu&theme=chartreuse-dark&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushripu&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=ayushripu&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushripu&layout=compact&theme=chartreuse-dark"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushripu&layout=compact&theme=radical&hide_border=true" />
 </p>
-
 ---
 
 # ⚡ MISSION 2026
