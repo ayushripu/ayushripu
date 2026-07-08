@@ -1,6 +1,10 @@
-<div align="center">
+<div>
 
-# ⚡ CYBER ANALYTICS TERMINAL
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:000000&height=280&section=header&text=AYUSH%20KUMAR&fontColor=00ff41&fontSize=55&animation=fadeIn&fontAlignY=40&desc=DATA%20ANALYST%20%7C%20POWER%20BI%20%7C%20SQL%20%7C%20PYTHON&descAlignY=65"/>
+
+</p>
 
 ```text
 ████████████████████████████████████████████████████
@@ -17,7 +21,6 @@ USER         :: AYUSH KUMAR
 ROLE         :: DATA ANALYST
 ACCESS LEVEL :: ROOT
 STATUS       :: ONLINE 🟢
-LOCATION     :: NOIDA, INDIA
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -219,13 +222,4 @@ THANK YOU FOR VISITING MY PROFILE
 
 ██████████████████████████████████
 ```
-
-# 🏆 ACHIEVEMENTS
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ayushripu&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</p>
-
 </div>
