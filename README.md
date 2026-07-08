@@ -57,26 +57,27 @@ Availability  : 24x7 Learning Mode
 
 ---
 
-# 🧠 CORE MODULES
+# ⚙ CORE TECHNOLOGIES
 
-```text
-Python                 ██████████████░░ 92%
+<p align="center">
 
-SQL                    █████████████░░░ 88%
+<img src="https://skillicons.dev/icons?i=python,mysql,java,html,css,git,github,vscode"/>
 
-Power BI               ████████████░░░░ 84%
+</p>
 
-Excel                  ██████████████░░ 91%
+<p align="center">
 
-Pandas                 ███████████░░░░░ 78%
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-NumPy                  ███████████░░░░░ 77%
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-Statistics             ████████░░░░░░░░ 60%
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
-Machine Learning       ███████░░░░░░░░░ 55%
-```
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+</p>
 ---
 
 # 🚀 ACTIVE PROJECTS
