@@ -111,7 +111,9 @@ STATUS
 
 ---
 
-## ⚡ GitHub Analytics
+---
+
+# ⚡ GITHUB COMMAND CENTER
 
 <p align="center">
 
@@ -125,7 +127,7 @@ STATUS
 
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushripu&theme=tokyonight"/>
 
-<img width="48%" src="https://raw.githubusercontent.com/ayushripu/ayushripu/output/github-contribution-grid-snake-dark.svg"/>
+<img width="48%" src="https://raw.githubusercontent.com/ayushripu/ayushripu/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
