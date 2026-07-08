@@ -1,94 +1,195 @@
-<h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
+<h1 align="center">
+Hi 👋 I'm Ayush Kumar
+</h1>
 
-<p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Aspiring+Data+Analyst;Python+(NumPy+Pandas+Matplotlib);MySQL+%7C+Power+BI+%7C+Excel;Java+Developer;Future+Analyst+%26+Software+Engineer" />
-</p> 
+<h3 align="center">
+Data Analyst | Data Science Enthusiast | Power BI Developer | Python Developer
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+Developer;Power+BI+Enthusiast;SQL+Expert+in+Progress;Machine+Learning+Learner;Always+Learning+New+Things..." />
+</p>
 
 ---
- 
-### 👨‍💻 About Me:
-- 🔭 Working on **Python, Data Analyst, Artificial Intelligence (AI)**
-- 🌱 Learning **Data Analysis & Machine Learning** 
-- 💬 Ask me about **Python, Numpy, Pandas, MatPlotLib, Power BI, Mysql, Excel, Java, OOP, DSA**
-- ⚡ Fun fact : I debug more than I code 😂
 
---- 
+## 📈 About Me
 
-### 🌐 Connect with me:
-<p align="center"> 
-<a href="https://www.instagram.com/ayush_ripu/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=none&logoColor=white"/>
+🎓 MCA Student
+
+📊 Passionate about Data Analytics & Business Intelligence
+
+🐍 Python | SQL | Power BI | Excel
+
+📚 Currently learning Machine Learning & Statistics
+
+🚀 Goal: Become a Data Scientist
+
+💡 I believe Data tells Stories.
+
+---
+
+## 🌍 Connect with Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://www.linkedin.com/in/ayush-kr37/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=none&logoColor=white"/>
+<a href="YOUR_GITHUB">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://x.com/Ayush_37sri">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=none&logoColor=white"/>
+<a href="YOUR_INSTAGRAM">
+<img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
-</p>
 
-----
+<a href="YOUR_X">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
 
-### 🛠️ Tech Stack:
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=none&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=none&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-4479A1?style=for-the-badge&logo=none&logoColor=white"/>
-<img src="https://img.shields.io/badge/POWER BI-4479A1?style=for-the-badge&logo=none&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=none&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=none&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=none&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=none&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayushripu&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://skillicons.dev/icons?i=python,mysql,java,html,css,git,github,vscode"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayushripu&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayushripu&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 
----
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 
-### 📊 Activity Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushripu&theme=tokyo-night&hide_border=true" />
-</p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
 
----
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy">
 
-### 🐍 Contribution Snake:
-<p align="center">
-<img src="https://raw.githubusercontent.com/ayushripu/ayushripu/output/github-contribution-grid-snake.svg" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+
 </p>
 
 ---
 
-### 🚀 Projects:
-- 🔹 Netflix-Userbase-Revenue-Dashboard
-- 🔹 Amazone sales Data Analysis
-- 🔹 Retail-Sales-Performance-Analysis
-- 🔹 Spell Correction in Java
-- 🔹 Student Record System
-- 🔹 Portfolio Website
+# 📊 GitHub Analytics
 
----
-
-### 👀 Profile Views:
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ayushripu&style=for-the-badge" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushripu&show_icons=true&theme=tokyonight"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushripu&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushripu&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ayushripu&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushripu&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Airbnb Property Performance Dashboard
+✔ Power BI
+✔ DAX
+✔ Power Query
+
+---
+
+### 📊 Netflix User Analytics Dashboard
+
+✔ Python
+✔ Pandas
+✔ Matplotlib
+
+---
+
+### 📈 Amazon Sales Dashboard
+
+✔ Power BI
+✔ Excel
+
+---
+
+### 🛒 Retail Sales Analysis
+
+✔ SQL
+✔ Python
+
+---
+
+### 📝 Spell Correction System
+
+✔ Java
+✔ DSA
+
+---
+
+## 📚 Currently Learning
+
+🔹 Machine Learning
+
+🔹 Statistics
+
+🔹 SQL Optimization
+
+🔹 Deep Learning
+
+🔹 Tableau
+
+---
+
+## 🎯 2026 Goals
+
+✅ Become Data Scientist
+
+✅ Master SQL
+
+✅ Master Machine Learning
+
+✅ Build 20+ Data Projects
+
+✅ Open Source Contributions
+
+---
+
+## 💬 Quote
+
+> "Without data, you're just another person with an opinion."
+
+— W. Edwards Deming
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ayushripu&style=for-the-badge"/>
+
+</p>
