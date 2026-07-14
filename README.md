@@ -1,7 +1,7 @@
 <div>
 
 <p align="center">
- 
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:000000&height=280&section=header&text=AYUSH%20KUMAR&fontColor=00ff41&fontSize=55&animation=fadeIn&fontAlignY=40&desc=DATA%20ANALYST%20%7C%20POWER%20BI%20%7C%20SQL%20%7C%20PYTHON&descAlignY=65"/>
 
 </p>
