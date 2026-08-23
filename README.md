@@ -6,9 +6,10 @@
 
 <table>
 <tr>
+
 <td width="35%" align="center">
 
-<img src="https://github.com/ayushripu.png" width="230" style="border-radius:50%;">
+<img src="https://github.com/ayushripu.png" width="230">
 
 <br><br>
 
@@ -29,32 +30,320 @@
 
 <td width="65%">
 
-# 👨‍💻 ABOUT ME
+<h1>👨‍💻 ABOUT ME</h1>
 
-I'm an **Aspiring Data Analyst** passionate about transforming raw data into meaningful business insights.
+<p>
+I'm an <b>Aspiring Data Analyst</b> passionate about transforming
+raw data into meaningful business insights.
+</p>
 
-🎓 **MCA Student**
+<p>
+🎓 <b>MCA Student</b><br>
+📊 Interested in <b>Data Analytics & Business Intelligence</b><br>
+🐍 Working with <b>Python, Pandas, NumPy & Matplotlib</b><br>
+🗄️ Practicing <b>SQL & MySQL</b><br>
+📈 Learning and building dashboards using <b>Power BI & Excel</b><br>
+🤖 Currently exploring <b>Machine Learning</b><br>
+💡 Focused on solving real-world problems using data
+</p>
 
-📊 Interested in **Data Analytics & Business Intelligence**
+<h3>⚡ CURRENT FOCUS</h3>
 
-🐍 Working with **Python, Pandas, NumPy & Matplotlib**
-
-🗄️ Practicing **SQL & MySQL**
-
-📈 Learning and building dashboards using **Power BI & Excel**
-
-🤖 Currently exploring **Machine Learning**
-
-💡 My goal is to use data to solve real-world business problems.
-
-<br>
-
-### ⚡ CURRENT FOCUS
-
-```text
+<pre>
 Excel              ████████████████░░░░  Learning
 SQL                █████████████████░░░  Practicing
 Power BI           ████████████████░░░░  Learning
-Python             █████████████████░░░  Strong
+Python             █████████████████░░░  Practicing
 Machine Learning   ███████████░░░░░░░░░  Exploring
+</pre>
 
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧠 TECHNICAL SKILLS
+
+## 📊 Data Analytics
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+
+</p>
+
+## 💻 Programming
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css"/>
+
+</p>
+
+## 🛠️ Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=jupyter,git,github,vscode,mysql"/>
+
+</p>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>🛒 Amazon Sales Analysis</h2>
+
+<p><b>Tech:</b> Python • Pandas • MySQL • Matplotlib</p>
+
+<ul>
+<li>Analyzed <b>10,000+ sales records</b></li>
+<li>Cleaned and transformed raw data</li>
+<li>Performed SQL-based analysis</li>
+<li>Identified top-performing products</li>
+<li>Analyzed category and regional sales</li>
+<li>Studied revenue trends</li>
+<li>Created data visualizations</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🏠 Airbnb Property Performance Dashboard</h2>
+
+<p><b>Tech:</b> Power BI • DAX • Power Query</p>
+
+<ul>
+<li>Built an interactive dashboard</li>
+<li>Cleaned data using Power Query</li>
+<li>Created business KPIs</li>
+<li>Used DAX measures</li>
+<li>Analyzed property performance</li>
+<li>Presented insights through interactive visuals</li>
+</ul>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>📺 Netflix User Analytics</h2>
+
+<p><b>Tech:</b> Python • Pandas • Matplotlib</p>
+
+<ul>
+<li>Cleaned analytical datasets</li>
+<li>Performed exploratory data analysis</li>
+<li>Analyzed user and content patterns</li>
+<li>Created visualizations</li>
+<li>Generated business insights</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🏪 Retail Sales Dashboard</h2>
+
+<p><b>Tech:</b> Power BI • SQL</p>
+
+<ul>
+<li>Analyzed retail sales data</li>
+<li>Created KPIs</li>
+<li>Built an interactive dashboard</li>
+<li>Used SQL for data analysis</li>
+<li>Identified sales trends and patterns</li>
+</ul>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>🎓 Student Record System</h2>
+
+<p><b>Tech:</b> Java</p>
+
+<ul>
+<li>Student record management</li>
+<li>Object-oriented programming</li>
+<li>Data handling</li>
+<li>CRUD operations</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>📊 More Projects</h2>
+
+<p>Continuously building projects in:</p>
+
+<ul>
+<li>Data Analytics</li>
+<li>Excel</li>
+<li>SQL</li>
+<li>Power BI</li>
+<li>Python</li>
+<li>Machine Learning</li>
+</ul>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📈 DATA ANALYTICS ROADMAP
+
+```text
+                         DATA ANALYTICS
+                               │
+          ┌────────────────────┼────────────────────┐
+          │                    │                    │
+          ▼                    ▼                    ▼
+        EXCEL                 SQL                PYTHON
+          │                    │                    │
+     ┌────┴────┐         ┌─────┴─────┐        ┌────┴────┐
+     │         │         │           │        │         │
+  Formulas  Pivot      JOIN       GROUP BY  Pandas    NumPy
+     │      Tables        │           │        │         │
+     │         │       CTEs      Window Fn  Matplotlib  EDA
+     └────┬────┘         └─────┬─────┘        └────┬────┘
+          │                    │                    │
+          └────────────────────┼────────────────────┘
+                               │
+                               ▼
+                           POWER BI
+                               │
+                     ┌─────────┴─────────┐
+                     │                   │
+                 Power Query            DAX
+                     │                   │
+                     └─────────┬─────────┘
+                               │
+                               ▼
+                      BUSINESS INSIGHTS
+
+🎯 CURRENT LEARNING
+╔════════════════════════════════════════════════════╗
+║                  LEARNING STATUS                   ║
+╠════════════════════════════════════════════════════╣
+║                                                    ║
+║  📗 Advanced Excel                 IN PROGRESS     ║
+║  🗄️ Advanced SQL                  IN PROGRESS     ║
+║  📊 Power BI                      IN PROGRESS     ║
+║  📐 DAX                           LEARNING        ║
+║  🧹 Power Query                   LEARNING        ║
+║  🐍 Python / Pandas               PRACTICING      ║
+║  🤖 Machine Learning              EXPLORING       ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
+⚡ GITHUB COMMAND CENTER
+<p align="center"> <img width="48%" src="https://streak-stats.demolab.com?user=ayushripu&theme=tokyonight&hide_border=true"/> <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushripu&theme=tokyonight"/> </p> <p align="center"> <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushripu&theme=tokyonight"/> </p>
+🐍 CONTRIBUTION SNAKE
+<p align="center"> <img src="https://raw.githubusercontent.com/ayushripu/ayushripu/output/github-contribution-grid-snake.svg"/> </p>
+📊 CONTRIBUTION GRAPH
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushripu&theme=github-dark&hide_border=true"/> </p>
+🧑‍💻 DATA ANALYST MINDSET
+              ┌──────────────┐
+              │   RAW DATA   │
+              └──────┬───────┘
+                     │
+                     ▼
+              ┌──────────────┐
+              │ DATA CLEANING│
+              └──────┬───────┘
+                     │
+                     ▼
+              ┌──────────────┐
+              │ EXPLORATION  │
+              └──────┬───────┘
+                     │
+                     ▼
+              ┌──────────────┐
+              │ SQL ANALYSIS │
+              └──────┬───────┘
+                     │
+                     ▼
+          ┌──────────────────────┐
+          │   EXCEL / POWER BI   │
+          └──────────┬───────────┘
+                     │
+                     ▼
+              ┌──────────────┐
+              │   INSIGHTS   │
+              └──────┬───────┘
+                     │
+                     ▼
+              ┌──────────────┐
+              │  DECISIONS   │
+              └──────────────┘
+🛰️ TERMINAL LOG
+> Initializing Data Analytics Environment...
+
+Loading Python.................... DONE ✔
+Loading Pandas................... DONE ✔
+Connecting MySQL................. CONNECTED ✔
+Loading Excel.................... READY ✔
+Initializing Power BI........... READY ✔
+
+> Cleaning datasets.............. DONE ✔
+> Performing SQL analysis........ DONE ✔
+> Building dashboards............ DONE ✔
+> Generating insights............ DONE ✔
+
+System Status : ONLINE 🟢
+Learning Mode : ACTIVE
+🧬 PHILOSOPHY
+while True:
+
+    Learn()
+    Practice()
+    Build()
+    Analyze()
+    Improve()
+
+    Repeat()
+📫 CONNECT WITH ME
+<p align="center"> <a href="https://github.com/ayushripu"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/ayush-kr37/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
+<div align="center"> <h3>💡 "Turning raw data into meaningful business decisions."</h3> <br>
+████████████████████████████████████████████████████
+
+              THANK YOU FOR VISITING
+
+              KEEP LEARNING 🚀
+              KEEP BUILDING 💻
+              KEEP ANALYZING 📊
+
+████████████████████████████████████████████████████
+</div> ```
